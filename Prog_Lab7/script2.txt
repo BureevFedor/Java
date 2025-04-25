@@ -1,0 +1,6 @@
+add {"name":"train1","coordinates":{"x":1.0,"y":1},"enginePower":200,"fuelConsumption":10,"fuelType":"ALCOHOL"}
+add {"name":"train2","coordinates":{"x":25.0,"y":15},"enginePower":210,"fuelConsumption":10,"fuelType":"ALCOHOL"}
+add {"name":"boat1","coordinates":{"x":45.0,"y":45},"enginePower":100,"fuelConsumption":50,"type":"BOAT"}
+add {"name":"bycicle1","coordinates":{"x":456.0,"y":144},"enginePower":5,"fuelConsumption":5,"type":"BICYCLE","fuelType":"MANPOWER"}
+add {"name":"boat2","coordinates":{"x":5.0,"y":446},"enginePower":95,"fuelConsumption":50,"type":"BOAT","fuelType":"ANTIMATTER"}
+show
